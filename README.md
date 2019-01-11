@@ -1,1 +1,1 @@
-# Applied-Machine-Learning-Assignments-Fall-2018
+# Applied Machine Learning-Fall 2018-Assignments
